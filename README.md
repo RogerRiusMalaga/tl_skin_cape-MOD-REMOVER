@@ -1,6 +1,10 @@
 # tl_skin_cape MOD REMOVER
 PowerShell script designed to monitor and clean up the Minecraft mods folder by deleting "tl_skin_cape...jar" automatically every time that user runs TLauncher minecraft getting rid of the annoying incompatibility error with other mods. Works for any mod manager.
 
+## DOWNLOAD:
+- [Click here](
+        https://github.com/rogerrius/tl_skin_cape-MOD-REMOVER/blob/main/script_tl.ps1)
+
 ## Features
 - Monitors the Minecraft mods folder for the presence of the specified file.
 - Automatically deletes the target file if found.
